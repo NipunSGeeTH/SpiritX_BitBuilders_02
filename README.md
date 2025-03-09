@@ -66,7 +66,11 @@ npm start
   </pre>
   <p>React will run on <code>http://localhost:3000</code></p>
 
+<h3> admin panel :
+  username: sangeeth </br>
+  password: 12345Aa@ </h3>
   <h2>🛡 Authentication Flow</h2>
+  
   <ul>
     <li>JWT tokens stored in <code>localStorage</code></li>
     <li>Auto-login on page refresh if token is valid</li>
@@ -120,9 +124,7 @@ npm start
     
   </ul>
 
-  admin panel :
-  username: sangeeth
-  password: 12345Aa@
+ 
 
   <h2>🤝 Contributing</h2>
   <ol>
