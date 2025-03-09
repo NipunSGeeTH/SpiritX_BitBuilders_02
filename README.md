@@ -116,7 +116,13 @@ npm start
     <li>Dynamic player statistics</li>
     <li>Mobile-friendly UI</li>
     <li>Email verification system</li>
+
+    
   </ul>
+
+  admin panel :
+  username: sangeeth
+  password: 12345Aa@
 
   <h2>🤝 Contributing</h2>
   <ol>
