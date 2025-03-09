@@ -1,0 +1,46 @@
+/* login.component.css */
+
+form input::placeholder {
+  color: rgba(54, 50, 50, 0.364) !important;
+  opacity: 1; /* Ensures the color is applied across browsers */
+}
+
+form input {
+  color: rgba(54, 50, 50, 0.364); /* Ensures text typed in input is also black */
+}
+
+.signup-link {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.signup-link a {
+  color: blue;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.signup-link a:hover {
+  text-decoration: underline;
+}
+
+/* Ensure checkbox and label are aligned properly */
+.remember-me {
+  display: flex;
+  align-items: center;
+  gap: 5px; /* Adjust space between checkbox and text */
+  justify-content: flex-start; /* Align content to the left */
+  font-size: 16px; /* Ensure text size matches */
+}
+
+/* Ensure checkbox does not have extra margin */
+.remember-me input {
+  margin: 0;
+  width: 16px;
+  height: 16px;
+}
+
+/* Prevent text from wrapping */
+.remember-me label {
+  white-space: nowrap;
+}
