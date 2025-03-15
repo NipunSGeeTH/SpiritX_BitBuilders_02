@@ -33,7 +33,7 @@ npm start
 <h3> admin panel :
   username: sangeeth </br>
   password: 12345Aa@ </h3>
-  <h2>🛡 Authentication Flow</h2>
+
   
   
   <div class="footer">
